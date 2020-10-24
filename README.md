@@ -5,7 +5,7 @@ Seminario PUC Minas Componentes Web JavaEE
 </p>
 
 # Oficina: Construindo Componentes Web JavaEE
-##Objetivo
+## Objetivo
 Apresentar os fundamentos sobre os principais recursos para construção de componentes Web, utilizando JavaEE.
-##Aplicação Final 
+## Aplicação Final 
 Criação de uma página de login utilizando componentes JavaEE na IDE NetBeans.
